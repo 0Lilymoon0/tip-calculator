@@ -11,10 +11,12 @@ main > div {
     font-family: sans-serif;
 }
 
-main > input {
+main > #inputs {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     font-size: 18px;
     font-family: sans-serif;
+    margin: 1rem;
+    padding: 1rem;
 }
